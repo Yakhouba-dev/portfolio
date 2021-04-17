@@ -23,13 +23,13 @@ $(document).ready(function(){
 
     // Animation ecriture
     var typed = new Typed(".typing",{
-        strings: ["Intégrateur web", "Developpeur web", "Graphiste"],
+        strings: ["Webmaster", "Intégrateur web", "Dev-web", "Graphiste"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
     });
     var typed = new Typed(".typing-2",{
-        strings: ["Intégrateur web", "Developpeur web", "Graphiste"],
+        strings: ["Webmaster", "Intégrateur web", "Dev-web", "Graphiste"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
