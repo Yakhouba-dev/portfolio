@@ -3,8 +3,8 @@
 
 /* VARIABLES COULEURS */
 :root {
-    --color-one: #5a4c4c;
-    --color-two: #f4f0e7;
+    --color-one: hsl(207, 4%, 28%); /*#5a4c4c*/
+    --color-two: hsl(207, 4%, 95%); /*#f4f0e7*/
     --color-three: #fff;
     --color-four: #111;
     --color-five: #222;
@@ -359,10 +359,10 @@ section .title::after{
     width: 40%;
 }
 .skills .skills-content .right .bootstrap::before{
-    width: 50%;
+    width: 60%;
 }
 .skills .skills-content .right .sass::before{
-    width: 30%;
+    width: 10%;
 }
 
 /* Main section Hobbies*/
